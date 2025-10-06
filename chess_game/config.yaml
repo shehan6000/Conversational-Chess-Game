@@ -1,0 +1,9 @@
+llm:
+  model: "gpt-4-turbo"
+  temperature: 0.7
+  max_tokens: 1000
+
+game:
+  max_turns: 50
+  max_nested_turns: 5
+  board_size: 200
