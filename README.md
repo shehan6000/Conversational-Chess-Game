@@ -1,4 +1,4 @@
-# Conversational Chess Game - Complete Documentation
+# Conversational Chess Game 
 
 ## Table of Contents
 1. [Overview](#overview)
